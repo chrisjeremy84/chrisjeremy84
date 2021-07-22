@@ -1,4 +1,4 @@
-## My name is 
+### My name is 
 # Chris Jeremie Ishimwe
 
 ### A computer engineering students with various of interests in the development of software and web applications
