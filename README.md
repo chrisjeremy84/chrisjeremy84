@@ -24,9 +24,19 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="TailwindCSS" width="26px" src="https://th.bing.com/th/id/R.45a2677424884e762b69f83d82daab60?rik=W6xZWIgmsjBCwg&pid=ImgRaw" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://th.bing.com/th/id/R.7384412324c769e447d3c4f86e9ff068?rik=0FOYbRJRU%2fE9gA&pid=ImgRaw" />
+
+<img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/R.c47206538c7c246c5f1d7a37ffdde5da?rik=8P50mrG9xY6lKg&pid=ImgRaw" />
+
+<img align="left" alt="pytorch" width="26px" src="https://th.bing.com/th/id/R.c6a0b339e0cf0764202ad2aa94f7f528?rik=RXpoCvOMXR26dA&pid=ImgRaw" />
+
 <img align="left" alt="Django" width="26px" src="https://th.bing.com/th/id/OIP.ln0AOuaHUxqg1TEizXifOAHaHa?pid=ImgDet&rs=1" />
 
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Redux" width="26px" src="https://th.bing.com/th/id/R.edf018af5e9fa4dce24d38e24b9ec828?rik=1AI6o1Z0SVc6hQ&pid=ImgRaw" />
+
+<img align="left" alt="mongoDB" width="26px" src="https://img.icons8.com/color/1600/mongodb.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
