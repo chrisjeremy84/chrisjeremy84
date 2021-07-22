@@ -1,6 +1,6 @@
 # Chris Jeremie Ishimwe
 
-### A computer engineering students with various of interests in the development of software and web applications
+### A computer engineering students with various of interests in the development of software and web applications.
 
 
 - 🔭 I’m currently working on Flixcave
