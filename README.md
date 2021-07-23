@@ -30,7 +30,7 @@
 - Photography
 - Game dev
 
-### For more professional side information, Please visit my [personal_portfolio](https:chrisjeremie.ga)
+### For more professional side information, Please visit my [personal_portfolio](https://chrisjeremie.ga/)
 
 ## Languages and Tools:
 
