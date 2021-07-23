@@ -23,6 +23,8 @@
 - CMS System
 - CRM System
 
+##Please check out my repositories for more projects
+
 ### Activities
 - 🔭 I’m currently working on Flixcave
 - 🌱 I’m currently learning Flutter
