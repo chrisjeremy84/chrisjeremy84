@@ -1,12 +1,36 @@
 # Chris Jeremie Ishimwe, 22
 
-### A computer engineering students with various of interests in the development of software and web applications. More engaged in the development of single webpage applications and the contribution to the open source world.
+### A computer engineering students with various of interests in the development of software and web applications. More engaged in the development of single webpage applications and the contribution to the open source world...
+
+### MOSTLY USED TOOLS
+- HTML
+- CSS
+- Javascript
+- ReactJS
+- Python
+- Django
+- pytorch
+- mongoDB
 
 
+### PROJECTS BEING WORKED ON
+- Psyred bussiness site
+- FLIXCAVE
+- SCHOOL MANAGEMENT SYSTEM
+- Zymee.
+
+### Activities
 - 🔭 I’m currently working on Flixcave
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Front-end and open source Projects
 - - 📫 How to reach me: chrisjeremy17@gmail.com
+
+### HOBBIES
+- Basketball
+- Photography
+- Game dev
+
+### For more professional side information, Please visit my [personal_portfolio](https:chrisjeremie.ga)
 
 ## Languages and Tools:
 
