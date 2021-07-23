@@ -2,7 +2,7 @@
 
 ### A computer engineering students with various of interests in the development of software and web applications. More engaged in the development of single webpage applications and the contribution to the open source world...
 
-<img src="https://user-images.githubusercontent.com/53315778/126830331-f5f98cb3-12fb-4f64-82d6-50964b2cd240.png" alt="Github image"/>
+<img src="https://user-images.githubusercontent.com/53315778/126830331-f5f98cb3-12fb-4f64-82d6-50964b2cd240.png" height=30 width=30 alt="Github image"/>
 
 ### MOSTLY USED TOOLS
 - HTML
