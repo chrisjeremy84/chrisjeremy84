@@ -18,6 +18,8 @@
 - FLIXCAVE
 - SCHOOL MANAGEMENT SYSTEM
 - Zymee.
+- CMS System
+- CRM System
 
 ### Activities
 - 🔭 I’m currently working on Flixcave
