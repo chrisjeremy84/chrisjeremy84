@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on Flixcave
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Front-end and open source Projects
-- - 📫 How to reach me: chrisjeremy17@gmail.com
+- 📫 How to reach me: chrisjeremy17@gmail.com
 
 ### HOBBIES
 - Basketball
@@ -37,6 +37,7 @@
 - Game dev
 
 ### For more professional side information, Please visit my [personal_portfolio](https://chrisjeremie.ga/)
+### Follow me on [Twitch](https://chrisjeremie.ga/), and we can have a live coding session  
 
 ## Languages and Tools:
 
