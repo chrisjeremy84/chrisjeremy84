@@ -37,7 +37,7 @@
 - Game dev
 
 ### For more professional side information, Please visit my [personal_portfolio](https://chrisjeremie.ga/)
-### Follow me on [Twitch](https://chrisjeremie.ga/), and we can have a live coding session  
+### Follow me on [Twitch](https://www.twitch.tv/5thfader_), and we can have a live coding session  
 
 ## Languages and Tools:
 
