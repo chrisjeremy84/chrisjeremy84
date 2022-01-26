@@ -36,7 +36,7 @@
 - Photography
 - Game dev
 
-### For more professional side information, Please visit my [personal_portfolio](https://chrisjeremie.ga/)
+### For more professional side information, Please visit my [projects_portfolio](https://psyred.com)
 ### Follow me on [Twitch](https://www.twitch.tv/5thfader_), and we can have a live coding session  
 
 ## Languages and Tools:
