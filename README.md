@@ -7,7 +7,9 @@
 ### MOSTLY USED TOOLS
 - Python
 - Dart
-- pytorch
+- Flutter
+- TensorFlow
+- Pytorch
 - mongoDB
 
 
