@@ -60,7 +60,7 @@
 
 <img align="left" alt="Redux" width="26px" src="https://th.bing.com/th/id/R.edf018af5e9fa4dce24d38e24b9ec828?rik=1AI6o1Z0SVc6hQ&pid=ImgRaw" />
 
-<img align="left" alt="Firebase" width="26px" src="https://th.bing.com/th/id/OIP.xSHn5nIiJ2poYGZaRoE8xgHaKJ?pid=ImgDet&rs=1" />
+<img align="left" alt="Firebase" width="26px" src="[https://th.bing.com/th/id/OIP.xSHn5nIiJ2poYGZaRoE8xgHaKJ?pid=ImgDet&rs=1](https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png)" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
