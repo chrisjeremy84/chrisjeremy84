@@ -1,7 +1,7 @@
-# Chris Jeremie Ishimwe, 23
+# Chris Jeremie Ishimwe, 24
 
 
-#### A computer engineer with various of interests in the development of web & mobile applications. More engaged in the development of single webpage applications and the contribution to the open source world...
+#### A computer engineer with various of interests in the development of web & mobile applications. More engaged in the development of data algorithms and visualization approaches, in the current era of software development.
 
 ### MOSTLY USED TOOLS
 - Python
@@ -13,19 +13,18 @@
 
 
 ### PROJECTS BEING WORKED ON
-- Psyred bussiness site
-- FLIXCAVE
-- SCHOOL MANAGEMENT SYSTEM
-- Zymee.
-- KWEZI
-- CRM System
+- Psyred bussiness site 📍
+- Cindex 📈
+- Zymee.📡
+- KWEZI 🌱 
+- CRM System 📊
 
 ## Please check out my [repositories](https://github.com/chrisjeremy84?tab=repositories) for more info on projects
 
 ### Activities
 - 🔭 I’m currently working on Kwezi
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Front-end and open source Projects
+- 👯 I’m looking to collaborate on open source Projects
 - 📫 How to reach me: chrisjeremy17@gmail.com
 
 ### HOBBIES
@@ -64,17 +63,4 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<!--
-**chrisjeremy84/chrisjeremy84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
