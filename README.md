@@ -1,4 +1,4 @@
-# Chris Jeremie Ishimwe, 24
+# Chris Jeremie Ishimwe, 25
 
 
 #### A computer engineer with various of interests in the development of web & mobile applications. More engaged in the development of data algorithms and visualization approaches, in the current era of software development.
@@ -8,29 +8,26 @@
 - Dart
 - Flutter
 - TensorFlow
-- Pytorch
-- mongoDB
+- Terraform
 
 
 ### PROJECTS BEING WORKED ON
 - Psyred bussiness site 📍
 - Cindex 📈
 - Zymee.📡
-- KWEZI 🌱 
 - CRM System 📊
 
 ## Please check out my [repositories](https://github.com/chrisjeremy84?tab=repositories) for more info on projects
 
 ### Activities
-- 🔭 I’m currently working on Kwezi
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on open source Projects
+- 🌱 I’m currently working on AWS Associates degree
+- 👯 3.0.0.0 ... coming soon
 - 📫 How to reach me: chrisjeremy17@gmail.com
 
 ### HOBBIES
 - Basketball
 - Photography
-- Game dev
+- Kayaking
 
 ### For more professional side information, Please visit my [projects_portfolio](https://psyred.com)
 ### Follow me on [Twitch](https://www.twitch.tv/5thfader_), and we can have a live coding session  
