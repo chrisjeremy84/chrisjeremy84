@@ -13,21 +13,12 @@
 
 ### PROJECTS BEING WORKED ON
 - Psyred bussiness site 📍
+- BRP 🛻
 - Cindex 📈
 - Zymee.📡
-- CRM System 📊
 
 ## Please check out my [repositories](https://github.com/chrisjeremy84?tab=repositories) for more info on projects
 
-### Activities
-- 🌱 I’m currently working on AWS Associates degree
-- 👯 3.0.0.0 ... coming soon
-- 📫 How to reach me: chrisjeremy17@gmail.com
-
-### HOBBIES
-- Basketball
-- Photography
-- Kayaking
 
 ### For more professional side information, Please visit my [projects_portfolio](https://psyred.com)
 ### Follow me on [Twitch](https://www.twitch.tv/5thfader_), and we can have a live coding session  
